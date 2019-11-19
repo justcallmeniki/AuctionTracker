@@ -1,0 +1,5 @@
+com\nikoln\bidsystem\repository\BidUserRepository.class
+com\nikoln\bidsystem\model\BidUser.class
+com\nikoln\bidsystem\BidSystemApplication.class
+com\nikoln\bidsystem\service\BidUserService.class
+com\nikoln\bidsystem\controller\BidUserController.class
